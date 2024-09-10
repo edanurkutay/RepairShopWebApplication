@@ -18,7 +18,7 @@ namespace RepairShopWebApplication.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Yetkili_Giris()
         {
             return View();
         }
